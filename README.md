@@ -1,2 +1,2 @@
 # bs-component-chinyue1910
-bs-component-chinyue1910 created by GitHub Classroom
+https://chinyue1910.github.io/lesson/20200527(bootstrap)/homework.html
